@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int potencia(int x, int y) {
